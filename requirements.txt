@@ -1,0 +1,6 @@
+fastapi==0.103.0
+uvicorn[standard]==0.23.1
+psycopg2==2.9.6
+reportlab==3.6.1
+pydantic==1.10.7
+PyPDF2==3.0.0
